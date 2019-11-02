@@ -1,0 +1,61 @@
+.jumbotron{
+    background-image: url(../images/gravity.jpg);
+    color: azure;
+    border-radius: 15px;
+    background-repeat: no-repeat;
+}
+
+#top-bar{
+    background-color: #000000;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+}
+body{
+    background-color: #8a2be2;
+}
+.card-body{
+    box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+}
+.card-img-top{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    
+}
+.pre-registration{
+    width: 100%;
+	background: #FAFAFA;
+	padding: 30px;
+	margin: 30px auto;
+	box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+	border-radius: 10px;
+    margin-right: 20px;
+}
+.input{
+    background-color:#FAFAFA ;
+    border: none;
+    border-bottom: solid ;
+}
+.submit{
+    border-radius: 5px;
+    border: none;
+    background-color:blue;
+    box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    color:#FAFAFA;
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+}

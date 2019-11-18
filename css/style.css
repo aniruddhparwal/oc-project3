@@ -2,9 +2,20 @@
     background-image: url(../images/gravity.jpg);
     color: azure;
     border-radius: 15px;
-    background-repeat: no-repeat;
+    background-repeat: repeat-x;
+    margin-left: 7%; 
+    margin-right: 7%;
 }
+hr{
+    background-color: azure;
+}
+span.navTitle{
+    color: #ffffff !important;
 
+}
+b{
+    color: white;
+}
 #top-bar{
     background-color: #000000;
     border-bottom-left-radius: 10px;
@@ -13,6 +24,7 @@
 }
 body{
     background-color: #8a2be2;
+    
 }
 .card-body{
     box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
